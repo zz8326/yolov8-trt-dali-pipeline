@@ -28,7 +28,9 @@ pip3 install ultralytics
 | Opencv(fp16) |   30  | 4.4ms    | 225.21|
 
 ##  Inference Results
+- opencv前處理
 ![Opencv Pipeline ](results/opencv_result.jpg)
+- DALI 前處理
 ![DALI Pipeline ](results/Dali_result.jpg)
 
 ## Run Inference
